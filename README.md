@@ -47,8 +47,8 @@ Feel free to fork this repo, suggest improvements, or add new features through p
 ---
 
 ## 📬 Contact
-👤 **Your Name**  
-📧 Email: your.email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
+👤 **Adnaan Nanda**  
+📧 Email: adnaan.nanda84@gmail.com  
+🔗 [LinkedIn](www.linkedin.com/in/adnaan-nanda-9a1b15249)  
 
 ---
